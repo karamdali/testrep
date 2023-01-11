@@ -1,2 +1,2 @@
 # testrep
-go
+print ('Hello world')
